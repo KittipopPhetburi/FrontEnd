@@ -1,4 +1,4 @@
-  /* Set font family and size for the whole page */
+/* Set font family and size for the whole page */
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
@@ -10,7 +10,7 @@ body {
     margin-top: 30px;
     margin-bottom: 50px;
     font-size: 36px;
-    color: #d696df;
+    color: #2C3E50;
   }
   
   /* Style the table */
